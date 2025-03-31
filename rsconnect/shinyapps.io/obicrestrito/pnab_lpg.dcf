@@ -1,0 +1,10 @@
+name: pnab_lpg
+title:
+username: obicrestrito
+account: obicrestrito
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14107415
+bundleId: 9860963
+url: https://obicrestrito.shinyapps.io/pnab_lpg/
+version: 1
